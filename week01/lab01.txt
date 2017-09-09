@@ -1,0 +1,24 @@
+total 84
+drwxr-xr-x 18 aulia.hafiz51 StafCS 4096 Sep  9 11:49 .
+drwx--x--x  4 aulia.hafiz51 StafCS 4096 Sep  9 11:42 ..
+drwxr-xr-x  8 aulia.hafiz51 StafCS 4096 Sep  9 11:49 .git
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:19 key
+-rw-r--r--  1 aulia.hafiz51 StafCS    0 Sep  9 11:49 lab01.txt
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:19 log
+-rw-r--r--  1 aulia.hafiz51 StafCS    7 Sep  9 11:12 README.md
+-rw-r--r--  1 aulia.hafiz51 StafCS   67 Sep  9 11:46 report.txt
+-rw-r--r--  1 aulia.hafiz51 StafCS   28 Sep  9 11:47 report.txt.save
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:23 sandbox
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:48 week00
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:16 week01
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:17 week02
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:17 week03
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:17 week04
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:17 week05
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:18 week06
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:18 week07
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:18 week08
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:18 week09
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:19 week10
+drwxr-xr-x  2 aulia.hafiz51 StafCS 4096 Sep  9 11:19 xtra
+/home/fasilkom/mahasiswa/a/aulia.hafiz51/os172/week01
