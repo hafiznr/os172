@@ -1,0 +1,2 @@
+#hafiznr
+week01 gives you the intro how to use git, scripting, etc.
